@@ -1,0 +1,24 @@
+:root {
+
+    /* ===== COLORS ===== */
+    --primary-color: #00bcd4;
+    --secondary-color: #0097a7;
+    --dark-color: #222;
+    --light-color: #f4f4f4;
+    --white-color: #ffffff;
+    --text-color: #333;
+
+    /* ===== FONTS ===== */
+    --main-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* ===== SPACING ===== */
+    --padding-small: 8px;
+    --padding-medium: 16px;
+    --padding-large: 40px;
+
+    /* ===== BORDER ===== */
+    --border-radius: 8px;
+
+    /* ===== TRANSITIONS ===== */
+    --transition-speed: 0.3s;
+}
